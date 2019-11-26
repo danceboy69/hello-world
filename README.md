@@ -1,2 +1,6 @@
 # hello-world
-Hello world test
+
+
+Hi Kenny,
+
+Let learn how to work with automation.
